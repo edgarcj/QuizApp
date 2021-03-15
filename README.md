@@ -1,3 +1,3 @@
 # QuizApp
 Quiz Application
-Aplicacion que tiene el fin de servir como cuestinario  basico con evaluacion de preguntas  y recarga de cuestionario
+Aplicacion de cuestionario basic  diseñado con  HTML/CSS/JS
